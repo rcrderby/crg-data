@@ -1,0 +1,26 @@
+{
+  "state" : {
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.kt.KeyControl.ClockReplace)" : "q",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.kt.KeyControl.ClockUndo)" : "q",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.kt.KeyControl.StartJam)" : "f",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.kt.KeyControl.StopJam)" : "d",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.kt.KeyControl.Team1Lead)" : "j",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.kt.KeyControl.Team1Lost)" : "J",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.kt.KeyControl.Team1NI)" : "l",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.kt.KeyControl.Team1ScoreUp)" : ",",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.kt.KeyControl.Team1StarPass)" : "u",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.kt.KeyControl.Team1TripScore4)" : "n",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.kt.KeyControl.Team2Lead)" : "k",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.kt.KeyControl.Team2Lost)" : "K",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.kt.KeyControl.Team2NI)" : ";",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.kt.KeyControl.Team2ScoreUp)" : ".",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.kt.KeyControl.Team2StarPass)" : "i",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.kt.KeyControl.Team2TripScore4)" : "m",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.kt.KeyControl.Timeout)" : "g",
+    "ScoreBoard.Version(release)" : "v2025.5",
+    "ScoreBoard.Version(release.commit)" : "2fb0d8aedc355edc680dc59e375764946edaca2c",
+    "ScoreBoard.Version(release.host)" : "localhost",
+    "ScoreBoard.Version(release.time)" : "20240526154622",
+    "ScoreBoard.Version(release.user)" : "frank"
+  }
+}

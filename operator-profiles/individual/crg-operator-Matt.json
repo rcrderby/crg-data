@@ -1,0 +1,12 @@
+{
+  "state" : {
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.Matt.KeyControl.StartJam)" : "f",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.Matt.KeyControl.StopJam)" : "d",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.Matt.KeyControl.Timeout)" : "s",
+    "ScoreBoard.Version(release)" : "v2025.5",
+    "ScoreBoard.Version(release.commit)" : "2fb0d8aedc355edc680dc59e375764946edaca2c",
+    "ScoreBoard.Version(release.host)" : "localhost",
+    "ScoreBoard.Version(release.time)" : "20240526154622",
+    "ScoreBoard.Version(release.user)" : "frank"
+  }
+}

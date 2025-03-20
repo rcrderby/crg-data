@@ -1,0 +1,20 @@
+{
+  "state" : {
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.Andy.KeyControl.ClockReplace)" : "f",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.Andy.KeyControl.ClockUndo)" : "f",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.Andy.KeyControl.StartJam)" : "a",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.Andy.KeyControl.StopJam)" : "s",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.Andy.KeyControl.Team1Lead)" : "u",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.Andy.KeyControl.Team1ScoreUp)" : "h",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.Andy.KeyControl.Team1TripScore4)" : "j",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.Andy.KeyControl.Team2Lead)" : "i",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.Andy.KeyControl.Team2ScoreUp)" : "l",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.Andy.KeyControl.Team2TripScore4)" : "k",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.Andy.KeyControl.Timeout)" : "d",
+    "ScoreBoard.Version(release)" : "v2025.5",
+    "ScoreBoard.Version(release.commit)" : "2fb0d8aedc355edc680dc59e375764946edaca2c",
+    "ScoreBoard.Version(release.host)" : "localhost",
+    "ScoreBoard.Version(release.time)" : "20240526154622",
+    "ScoreBoard.Version(release.user)" : "frank"
+  }
+}

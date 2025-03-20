@@ -1,0 +1,24 @@
+{
+  "state" : {
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.Rita.KeyControl.ClockReplace)" : "z",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.Rita.KeyControl.ClockUndo)" : "z",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.Rita.KeyControl.StartJam)" : "g",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.Rita.KeyControl.StopJam)" : "v",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.Rita.KeyControl.Team1Call)" : "d",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.Rita.KeyControl.Team1Lead)" : "f",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.Rita.KeyControl.Team1ScoreUp)" : "a",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.Rita.KeyControl.Team1StarPass)" : "b",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.Rita.KeyControl.Team1TripScore4)" : "s",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.Rita.KeyControl.Team2Call)" : "e",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.Rita.KeyControl.Team2Lead)" : "r",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.Rita.KeyControl.Team2ScoreUp)" : "q",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.Rita.KeyControl.Team2StarPass)" : "y",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.Rita.KeyControl.Team2TripScore4)" : "w",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.Rita.KeyControl.Timeout)" : "x",
+    "ScoreBoard.Version(release)" : "v2025.5",
+    "ScoreBoard.Version(release.commit)" : "2fb0d8aedc355edc680dc59e375764946edaca2c",
+    "ScoreBoard.Version(release.host)" : "localhost",
+    "ScoreBoard.Version(release.time)" : "20240526154622",
+    "ScoreBoard.Version(release.user)" : "frank"
+  }
+}

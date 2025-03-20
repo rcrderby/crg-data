@@ -1,0 +1,23 @@
+{
+  "state" : {
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.jumpcut.KeyControl.ClockReplace)" : "l",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.jumpcut.KeyControl.ClockUndo)" : "l",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.jumpcut.KeyControl.StartJam)" : "z",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.jumpcut.KeyControl.StopJam)" : "g",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.jumpcut.KeyControl.Team1Call)" : "w",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.jumpcut.KeyControl.Team1Lead)" : "q",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.jumpcut.KeyControl.Team1ScoreUp)" : "p",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.jumpcut.KeyControl.Team1TripScore4)" : "e",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.jumpcut.KeyControl.Team2Call)" : "s",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.jumpcut.KeyControl.Team2Lead)" : "a",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.jumpcut.KeyControl.Team2Lost)" : "f",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.jumpcut.KeyControl.Team2ScoreUp)" : "o",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.jumpcut.KeyControl.Team2TripScore4)" : "d",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.jumpcut.KeyControl.Timeout)" : "x",
+    "ScoreBoard.Version(release)" : "v2025.5",
+    "ScoreBoard.Version(release.commit)" : "2fb0d8aedc355edc680dc59e375764946edaca2c",
+    "ScoreBoard.Version(release.host)" : "localhost",
+    "ScoreBoard.Version(release.time)" : "20240526154622",
+    "ScoreBoard.Version(release.user)" : "frank"
+  }
+}

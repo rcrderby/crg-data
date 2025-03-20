@@ -1,0 +1,14 @@
+{
+  "state" : {
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.flip.KeyControl.ClockReplace)" : "n",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.flip.KeyControl.ClockUndo)" : "n",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.flip.KeyControl.StartJam)" : "g",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.flip.KeyControl.StopJam)" : "s",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.flip.KeyControl.Timeout)" : "t",
+    "ScoreBoard.Version(release)" : "v2025.5",
+    "ScoreBoard.Version(release.commit)" : "2fb0d8aedc355edc680dc59e375764946edaca2c",
+    "ScoreBoard.Version(release.host)" : "localhost",
+    "ScoreBoard.Version(release.time)" : "20240526154622",
+    "ScoreBoard.Version(release.user)" : "frank"
+  }
+}
