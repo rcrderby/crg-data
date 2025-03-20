@@ -1,7 +1,6 @@
 # VS Code Development Dockerfile for CRG Container
 # Base image
-FROM python:3.12-rc-slim-buster
-
+FROM python:3.11-slim-buster
 # Set the working directory
 WORKDIR /workspaces/crg-data
 
@@ -17,8 +16,8 @@ COPY _requirements/requirements_dev.txt _requirements/requirements_dev.txt
 
 # Upgrade pip and install requirements from the requirements file
 RUN python -m pip install --no-cache-dir --upgrade pip && \
-    python -m pip install --no-cache-dir -r requirements/requirements_dev.txt && \
-    rm -rf requirements
+    python -m pip install --no-cache-dir -r _requirements/requirements_dev.txt && \
+    rm -rf _requirements
 
 # Set the PYTHONPATH environment variable
 ENV PYTHONPATH=/workspaces/crg-data
