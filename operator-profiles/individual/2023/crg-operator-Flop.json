@@ -1,0 +1,19 @@
+{
+  "state" : {
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__Flop.KeyControl.StartJam)" : "a",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__Flop.KeyControl.Team1Call)" : "f",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__Flop.KeyControl.Team1Lead)" : "d",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__Flop.KeyControl.Team2Call)" : "j",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__Flop.KeyControl.Team2Lead)" : "k",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__Fruity.KeyControl.ClockReplace)" : "z",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__Fruity.KeyControl.ClockUndo)" : "z",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__Fruity.KeyControl.StartJam)" : "f",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__Fruity.KeyControl.StopJam)" : "s",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__Fruity.KeyControl.Timeout)" : "t",
+    "ScoreBoard.Version(release)" : "v2023.7",
+    "ScoreBoard.Version(release.commit)" : "2fb0d8aedc355edc680dc59e375764946edaca2c",
+    "ScoreBoard.Version(release.host)" : "localhost",
+    "ScoreBoard.Version(release.time)" : "20240526154622",
+    "ScoreBoard.Version(release.user)" : "frank"
+  }
+}

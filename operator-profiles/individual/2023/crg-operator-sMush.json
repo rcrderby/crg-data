@@ -1,0 +1,24 @@
+{
+  "state" : {
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__sMush.KeyControl.ClockReplace)" : "z",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__sMush.KeyControl.ClockUndo)" : "z",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__sMush.KeyControl.StartJam)" : "s",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__sMush.KeyControl.StopJam)" : "x",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__sMush.KeyControl.Team1Call)" : ",",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__sMush.KeyControl.Team1Lead)" : "k",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__sMush.KeyControl.Team1ScoreUp)" : "u",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__sMush.KeyControl.Team1StarPass)" : "j",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__sMush.KeyControl.Team1TripScore4)" : "i",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__sMush.KeyControl.Team2Call)" : ".",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__sMush.KeyControl.Team2Lead)" : "l",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__sMush.KeyControl.Team2ScoreUp)" : "p",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__sMush.KeyControl.Team2StarPass)" : ";",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__sMush.KeyControl.Team2TripScore4)" : "o",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__sMush.KeyControl.Timeout)" : "a",
+    "ScoreBoard.Version(release)" : "v2023.7",
+    "ScoreBoard.Version(release.commit)" : "2fb0d8aedc355edc680dc59e375764946edaca2c",
+    "ScoreBoard.Version(release.host)" : "localhost",
+    "ScoreBoard.Version(release.time)" : "20240526154622",
+    "ScoreBoard.Version(release.user)" : "frank"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "state" : {
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__Feral.KeyControl.ClockReplace)" : "f",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__Feral.KeyControl.ClockUndo)" : "f",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__Feral.KeyControl.StartJam)" : "s",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__Feral.KeyControl.StopJam)" : "d",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__Feral.KeyControl.Timeout)" : "a",
+    "ScoreBoard.Version(release)" : "v2023.7",
+    "ScoreBoard.Version(release.commit)" : "2fb0d8aedc355edc680dc59e375764946edaca2c",
+    "ScoreBoard.Version(release.host)" : "localhost",
+    "ScoreBoard.Version(release.time)" : "20240526154622",
+    "ScoreBoard.Version(release.user)" : "frank"
+  }
+}

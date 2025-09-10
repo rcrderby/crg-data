@@ -1,0 +1,26 @@
+{
+  "state" : {
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__mauli.KeyControl.StartJam)" : "g",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__mauli.KeyControl.StopJam)" : "s",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__mauli.KeyControl.Team1Lead)" : "a",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__mauli.KeyControl.Team1TripScore0)" : "q",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__mauli.KeyControl.Team1TripScore1)" : "w",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__mauli.KeyControl.Team1TripScore2)" : "e",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__mauli.KeyControl.Team1TripScore3)" : "r",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__mauli.KeyControl.Team1TripScore4)" : "t",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__mauli.KeyControl.Team2Lead)" : "'",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__mauli.KeyControl.Team2TripScore0)" : "[",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__mauli.KeyControl.Team2TripScore1)" : "p",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__mauli.KeyControl.Team2TripScore2)" : "o",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__mauli.KeyControl.Team2TripScore3)" : "i",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__mauli.KeyControl.Team2TripScore4)" : "u",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__mauli.ScoreAdjustments)" : "false",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__mauli.StartStopButtons)" : "false",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__mauli.TabBar)" : "true",
+    "ScoreBoard.Version(release)" : "v2023.7",
+    "ScoreBoard.Version(release.commit)" : "2fb0d8aedc355edc680dc59e375764946edaca2c",
+    "ScoreBoard.Version(release.host)" : "localhost",
+    "ScoreBoard.Version(release.time)" : "20240526154622",
+    "ScoreBoard.Version(release.user)" : "frank"
+  }
+}

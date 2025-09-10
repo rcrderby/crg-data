@@ -1,0 +1,26 @@
+{
+  "state" : {
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__Talia.KeyControl.ClockReplace)" : "v",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__Talia.KeyControl.ClockUndo)" : "v",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__Talia.KeyControl.StartJam)" : "z",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__Talia.KeyControl.StopJam)" : "x",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__Talia.KeyControl.Team1Lead)" : "a",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__Talia.KeyControl.Team1NI)" : "f",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__Talia.KeyControl.Team1ScoreDown)" : "q",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__Talia.KeyControl.Team1ScoreUp)" : "w",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__Talia.KeyControl.Team1StarPass)" : ",",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__Talia.KeyControl.Team1TripScore4)" : "r",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__Talia.KeyControl.Team2Lead)" : "s",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__Talia.KeyControl.Team2NI)" : "j",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__Talia.KeyControl.Team2ScoreDown)" : "p",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__Talia.KeyControl.Team2ScoreUp)" : "o",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__Talia.KeyControl.Team2StarPass)" : ".",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__Talia.KeyControl.Team2TripScore4)" : "u",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator__Talia.KeyControl.Timeout)" : "c",
+    "ScoreBoard.Version(release)" : "v2023.7",
+    "ScoreBoard.Version(release.commit)" : "2fb0d8aedc355edc680dc59e375764946edaca2c",
+    "ScoreBoard.Version(release.host)" : "localhost",
+    "ScoreBoard.Version(release.time)" : "20240526154622",
+    "ScoreBoard.Version(release.user)" : "frank"
+  }
+}
