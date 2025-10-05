@@ -1,7 +1,7 @@
 {
   "state" : {
     "ScoreBoard.Rulesets.Ruleset(810404a2-7b16-480f-9b41-80cb68b57f12).Id" : "810404a2-7b16-480f-9b41-80cb68b57f12",
-    "ScoreBoard.Rulesets.Ruleset(810404a2-7b16-480f-9b41-80cb68b57f12).Name" : "Scrimmage (22 min. period, 5 min. half, running clock)",
+    "ScoreBoard.Rulesets.Ruleset(810404a2-7b16-480f-9b41-80cb68b57f12).Name" : "WFTDA - Scrimmage (22 min. period, 5 min. half, running clock)",
     "ScoreBoard.Rulesets.Ruleset(810404a2-7b16-480f-9b41-80cb68b57f12).Parent" : "WFTDARuleset",
     "ScoreBoard.Rulesets.Ruleset(810404a2-7b16-480f-9b41-80cb68b57f12).Readonly" : false,
     "ScoreBoard.Rulesets.Ruleset(810404a2-7b16-480f-9b41-80cb68b57f12).Rule(Intermission.Durations)" : "5:00,60:00",
