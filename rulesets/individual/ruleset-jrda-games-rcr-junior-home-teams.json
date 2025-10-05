@@ -1,7 +1,7 @@
 {
   "state" : {
     "ScoreBoard.Rulesets.Ruleset(174b8bf2-7256-48e3-a37e-c7571de8f8a0).Id" : "174b8bf2-7256-48e3-a37e-c7571de8f8a0",
-    "ScoreBoard.Rulesets.Ruleset(174b8bf2-7256-48e3-a37e-c7571de8f8a0).Name" : "Rose Buds HT",
+    "ScoreBoard.Rulesets.Ruleset(174b8bf2-7256-48e3-a37e-c7571de8f8a0).Name" : "JRDA Games: Rose Buds HT",
     "ScoreBoard.Rulesets.Ruleset(174b8bf2-7256-48e3-a37e-c7571de8f8a0).Parent" : "JRDARuleset",
     "ScoreBoard.Rulesets.Ruleset(174b8bf2-7256-48e3-a37e-c7571de8f8a0).Readonly" : false,
     "ScoreBoard.Rulesets.Ruleset(174b8bf2-7256-48e3-a37e-c7571de8f8a0).Rule(Intermission.Durations)" : "10:00,60:00",
