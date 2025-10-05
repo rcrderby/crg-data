@@ -1,7 +1,7 @@
 {
   "state" : {
     "ScoreBoard.Rulesets.Ruleset(0f4f82e0-c8de-4021-8084-f98f9b8309fa).Id" : "0f4f82e0-c8de-4021-8084-f98f9b8309fa",
-    "ScoreBoard.Rulesets.Ruleset(0f4f82e0-c8de-4021-8084-f98f9b8309fa).Name" : "JRDA - Scrimmage (22 min. period, 5 min. half, running clock)",
+    "ScoreBoard.Rulesets.Ruleset(0f4f82e0-c8de-4021-8084-f98f9b8309fa).Name" : "JRDA Scrimmage: (22 min. period, 5 min. half, running clock)",
     "ScoreBoard.Rulesets.Ruleset(0f4f82e0-c8de-4021-8084-f98f9b8309fa).Parent" : "JRDARuleset",
     "ScoreBoard.Rulesets.Ruleset(0f4f82e0-c8de-4021-8084-f98f9b8309fa).Readonly" : false,
     "ScoreBoard.Rulesets.Ruleset(0f4f82e0-c8de-4021-8084-f98f9b8309fa).Rule(Intermission.Durations)" : "5:00,60:00",
