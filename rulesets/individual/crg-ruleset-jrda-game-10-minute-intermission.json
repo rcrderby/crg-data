@@ -1,0 +1,14 @@
+{
+  "state" : {
+    "ScoreBoard.Rulesets.Ruleset(c3fc35e2-09e7-46d6-a3d7-f0075aef554d).Id" : "c3fc35e2-09e7-46d6-a3d7-f0075aef554d",
+    "ScoreBoard.Rulesets.Ruleset(c3fc35e2-09e7-46d6-a3d7-f0075aef554d).Name" : "JRDA Game: 10-Minute Intermission",
+    "ScoreBoard.Rulesets.Ruleset(c3fc35e2-09e7-46d6-a3d7-f0075aef554d).Parent" : "JRDARuleset",
+    "ScoreBoard.Rulesets.Ruleset(c3fc35e2-09e7-46d6-a3d7-f0075aef554d).Readonly" : false,
+    "ScoreBoard.Rulesets.Ruleset(c3fc35e2-09e7-46d6-a3d7-f0075aef554d).Rule(Intermission.Durations)" : "10:00,60:00",
+    "ScoreBoard.Version(release)" : "v2025.7",
+    "ScoreBoard.Version(release.commit)" : "459ba631a007d95ff9b8f5744c52df43e4a0fc77",
+    "ScoreBoard.Version(release.host)" : "localhost",
+    "ScoreBoard.Version(release.time)" : "20251004182911",
+    "ScoreBoard.Version(release.user)" : "frank"
+  }
+}
