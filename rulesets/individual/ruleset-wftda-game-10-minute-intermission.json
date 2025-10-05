@@ -1,7 +1,7 @@
 {
   "state" : {
     "ScoreBoard.Rulesets.Ruleset(a927b6f5-7239-4a79-a34f-b92c862ffab6).Id" : "a927b6f5-7239-4a79-a34f-b92c862ffab6",
-    "ScoreBoard.Rulesets.Ruleset(a927b6f5-7239-4a79-a34f-b92c862ffab6).Name" : "WFTDA - 10-Minute Intermission",
+    "ScoreBoard.Rulesets.Ruleset(a927b6f5-7239-4a79-a34f-b92c862ffab6).Name" : "WFTDA Game: 10-Minute Intermission",
     "ScoreBoard.Rulesets.Ruleset(a927b6f5-7239-4a79-a34f-b92c862ffab6).Parent" : "WFTDARuleset",
     "ScoreBoard.Rulesets.Ruleset(a927b6f5-7239-4a79-a34f-b92c862ffab6).Readonly" : false,
     "ScoreBoard.Rulesets.Ruleset(a927b6f5-7239-4a79-a34f-b92c862ffab6).Rule(Intermission.Durations)" : "10:00,60:00",
