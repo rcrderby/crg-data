@@ -5,7 +5,7 @@
     "ScoreBoard.Settings.Setting(ScoreBoard.Operator.Feral.KeyControl.StartJam)" : "s",
     "ScoreBoard.Settings.Setting(ScoreBoard.Operator.Feral.KeyControl.StopJam)" : "d",
     "ScoreBoard.Settings.Setting(ScoreBoard.Operator.Feral.KeyControl.Timeout)" : "a",
-    "ScoreBoard.Version(release)" : "v2025.5",
+    "ScoreBoard.Version(release)" : "v2025.7",
     "ScoreBoard.Version(release.commit)" : "2fb0d8aedc355edc680dc59e375764946edaca2c",
     "ScoreBoard.Version(release.host)" : "localhost",
     "ScoreBoard.Version(release.time)" : "20240526154622",

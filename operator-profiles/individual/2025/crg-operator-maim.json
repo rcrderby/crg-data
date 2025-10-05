@@ -27,7 +27,7 @@
     "ScoreBoard.Settings.Setting(ScoreBoard.Operator.maim.KeyControl.Team2TripScore4)" : "7",
     "ScoreBoard.Settings.Setting(ScoreBoard.Operator.maim.KeyControl.Timeout)" : ".",
     "ScoreBoard.Settings.Setting(ScoreBoard.Operator.maim.StartStopButtons)" : "true",
-    "ScoreBoard.Version(release)" : "v2025.5",
+    "ScoreBoard.Version(release)" : "v2025.7",
     "ScoreBoard.Version(release.commit)" : "2fb0d8aedc355edc680dc59e375764946edaca2c",
     "ScoreBoard.Version(release.host)" : "localhost",
     "ScoreBoard.Version(release.time)" : "20240526154622",

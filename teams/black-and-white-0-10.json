@@ -134,7 +134,7 @@
     "ScoreBoard.PreparedTeam(White).Skater(fef6da06-1231-44e7-bddd-3e7116e33276).Readonly" : false,
     "ScoreBoard.PreparedTeam(White).Skater(fef6da06-1231-44e7-bddd-3e7116e33276).RosterNumber" : "10",
     "ScoreBoard.PreparedTeam(White).TeamName" : "White",
-    "ScoreBoard.Version(release)" : "v2025.1",
+    "ScoreBoard.Version(release)" : "v2025.7",
     "ScoreBoard.Version(release.commit)" : "412b1b41529f0893267fc39411df3c0a08a22842",
     "ScoreBoard.Version(release.host)" : "localhost",
     "ScoreBoard.Version(release.time)" : "20241115075848",
