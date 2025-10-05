@@ -7,7 +7,7 @@
     "ScoreBoard.Rulesets.Ruleset(0f4f82e0-c8de-4021-8084-f98f9b8309fa).Rule(Intermission.Durations)" : "5:00,60:00",
     "ScoreBoard.Rulesets.Ruleset(0f4f82e0-c8de-4021-8084-f98f9b8309fa).Rule(Period.Duration)" : "22:00",
     "ScoreBoard.Rulesets.Ruleset(0f4f82e0-c8de-4021-8084-f98f9b8309fa).Rule(Timeout.StopPeriodClockAlways)" : "false",
-    "ScoreBoard.Version(release)" : "v2025.1",
+    "ScoreBoard.Version(release)" : "v2025.7",
     "ScoreBoard.Version(release.commit)" : "412b1b41529f0893267fc39411df3c0a08a22842",
     "ScoreBoard.Version(release.host)" : "localhost",
     "ScoreBoard.Version(release.time)" : "20241115075848",

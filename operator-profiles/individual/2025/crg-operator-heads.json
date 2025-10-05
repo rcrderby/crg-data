@@ -5,7 +5,7 @@
     "ScoreBoard.Settings.Setting(ScoreBoard.Operator.heads.KeyControl.Team1Lead)" : "q",
     "ScoreBoard.Settings.Setting(ScoreBoard.Operator.heads.KeyControl.Team2Lead)" : "w",
     "ScoreBoard.Settings.Setting(ScoreBoard.Operator.heads.KeyControl.Timeout)" : "t",
-    "ScoreBoard.Version(release)" : "v2025.5",
+    "ScoreBoard.Version(release)" : "v2025.7",
     "ScoreBoard.Version(release.commit)" : "2fb0d8aedc355edc680dc59e375764946edaca2c",
     "ScoreBoard.Version(release.host)" : "localhost",
     "ScoreBoard.Version(release.time)" : "20240526154622",
