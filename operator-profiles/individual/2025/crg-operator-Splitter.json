@@ -1,0 +1,16 @@
+{
+  "state" : {
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.Splitter.KeyControl.ClockUndo)" : "r",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.Splitter.KeyControl.StartJam)" : "q",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.Splitter.KeyControl.StopJam)" : "w",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.Splitter.KeyControl.Timeout)" : "e",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.Splitter.ReplaceButton)" : "false",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.Splitter.ScoreAdjustments)" : "false",
+    "ScoreBoard.Settings.Setting(ScoreBoard.Operator.Splitter.TabBar)" : "true",
+    "ScoreBoard.Version(release)" : "v2025.7",
+    "ScoreBoard.Version(release.commit)" : "2fb0d8aedc355edc680dc59e375764946edaca2c",
+    "ScoreBoard.Version(release.host)" : "localhost",
+    "ScoreBoard.Version(release.time)" : "20240526154622",
+    "ScoreBoard.Version(release.user)" : "frank"
+  }
+}
